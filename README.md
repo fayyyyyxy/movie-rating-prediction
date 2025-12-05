@@ -43,3 +43,6 @@ All the datasets CSV used in the notebooks are also checked into this repo under
 2. Install dependencies from `requirements.txt`:
    ```bash
    pip install -r requirements.txt
+
+
+This repo is primarily intended as a final project for the Northwestern MLDS Programming for Data Science course, showing an end-to-end workflow: cleaning → feature engineering → modeling → evaluation on a movie ratings prediction task.
